@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Automatic Mask
 
-You can use the [editor on GitHub](https://github.com/hshengGG/Automatic_Mask/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This auto-mask project creates an automatic mask that can cover your face when you cough. A pushbutton on the side can move the mask down to give you some space to breathe.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
