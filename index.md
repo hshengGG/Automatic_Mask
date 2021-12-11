@@ -3,10 +3,15 @@
 This auto-mask project creates an automatic mask that can cover your face when you cough. A pushbutton on the side can move the mask down to give you some space to breathe.
 
 Modile Used:
+
 -LSM9DS1 IMU breakout board
+
 -Pushbutton
+
 -Speaker and Class-D Ampilifier
+
 -RC Servo
+
 -EasyVR
 
 
