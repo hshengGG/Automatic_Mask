@@ -30,4 +30,4 @@ Hardware Used
 # Instruction
 After connecting all wires and modules with Mbed, you can download our source file to test the function of each module. If you wish to alter any parts or add functions, you can reach the following library posted on Mbed website for more information on each parts:
 
-- ![IMU](https://os.mbed.com/components/LSM9DS1-IMU/)
+- [IMU](https://os.mbed.com/components/LSM9DS1-IMU/)
