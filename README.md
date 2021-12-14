@@ -7,11 +7,16 @@ Click the picture for demo video
 Ruirui Ma, Haotian Sheng
 
 
+
 # Overview
-A final project for ECE 4180 Embedded System Design consisting of a mask can automatically cover your face through the following options:
+Coronavirus, with a multitude of variants, is a extremely contagious and deadly respitory disease. Thus, masks have become essential in protecting one's health in this global pandemic. However, masks can be inconvenient at times. For example, when one wants a breath of fresh air when there's no one around, or when one want to drink and eat, one needs to take off and put on the mask. This is not only inconvenient, but also dangerous to one's health as he or she needs to use oftentimes unsanitized hands to touch the mask, potentially bringing the virus to the mask.
+
+Thus, we have created a mask that can automatically cover/ uncover facial area for our ECE 4180 Embedded System Design final project. The mask can be controlled through the following options:
 * Push the button the turn on or off the mask
 * Speak to the microphone through either UP or DOWN command to turn on or off the mask
 * Sneeze to turn on the mask
+
+
 
 # Parts Used
 Software Used
