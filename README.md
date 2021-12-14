@@ -1,6 +1,8 @@
 # Automatic Mask
 ECE 4180 Fall 2021 Final Project
-![github-medium](mask.jpg)
+[![github-medium](mask.jpg)](https://www.youtube.com/watch?v=2lhwr4Diqu0)
+
+Click the picture for demo video
 ## Author 
 Ruirui Ma, Haotian Sheng
 
@@ -34,3 +36,5 @@ After connecting all wires and modules with Mbed, you can download our source fi
 - [RC Servo](https://os.mbed.com/users/4180_1/notebook/an-introduction-to-servos/)
 - [Speaker & Class D Amplifier](https://os.mbed.com/users/4180_1/notebook/using-a-speaker-for-audio-output/)
 - [EasyVR](https://os.mbed.com/users/4180_1/notebook/easyvr/)
+
+
