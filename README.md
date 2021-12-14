@@ -42,4 +42,11 @@ After connecting all wires and modules with Mbed, you can download our source fi
 - [Speaker & Class D Amplifier](https://os.mbed.com/users/4180_1/notebook/using-a-speaker-for-audio-output/)
 - [EasyVR](https://os.mbed.com/users/4180_1/notebook/easyvr/)
 
+# Future Improvement
+* More rigid and lighter frame
+* Detecting person within 6 feet:
+ * Sonar
+ * Camera with Rasberry Pi
+* Rechargeable Battery
+* Replacable Mask
 
