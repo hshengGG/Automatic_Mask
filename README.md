@@ -26,4 +26,4 @@ Hardware Used
 * Speaker and Class D Amplifier
 
 # Connection Diagram
-![github-medium](connection.PNG)
+![github-medium](connection.png)
