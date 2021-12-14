@@ -18,11 +18,16 @@ Software Used
 
 Hardware Used
 * Mbed LPC1768 
-* IMU
-* RC Servo
+* LSM9DS1 IMU Breakout Board
+* Any RC Servo (HITEC HS-322HD)
 * Pushbutton
 * EasyVR -- Voice Recognition
 * Speaker and Class D Amplifier
 
 # Connection Diagram
 ![github-medium](connection.png)
+
+# Instruction
+After connecting all wires and modules with Mbed, you can download our source file to test the function of each module. If you wish to alter any parts or add functions, you can reach the following library posted on Mbed website for more information on each parts:
+
+- 
