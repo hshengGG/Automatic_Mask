@@ -31,3 +31,6 @@ Hardware Used
 After connecting all wires and modules with Mbed, you can download our source file to test the function of each module. If you wish to alter any parts or add functions, you can reach the following library posted on Mbed website for more information on each parts:
 
 - [IMU](https://os.mbed.com/components/LSM9DS1-IMU/)
+- [RC Servo](https://os.mbed.com/users/4180_1/notebook/an-introduction-to-servos/)
+- [Speaker & Class D Amplifier](https://os.mbed.com/users/4180_1/notebook/using-a-speaker-for-audio-output/)
+- [EasyVR](https://os.mbed.com/users/4180_1/notebook/easyvr/)
