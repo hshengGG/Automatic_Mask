@@ -3,7 +3,7 @@ ECE 4180 Fall 2021 Final Project
 
 # Author 
 Ruirui Ma, Haotian Sheng
-!(mask.jpeg)
+![github-medium](mask.jpeg)
 
 # Overview
 A final project for ECE 4180 Embedded System Design consisting of a mask can automatically cover your face through the following options:
